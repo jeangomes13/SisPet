@@ -1,0 +1,38 @@
+	<style>
+		.carousel-item {
+			height: 100vh;
+			min-height: 350px;
+			background: no-repeat center center scroll;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+		}
+		.display-4,
+		.lead {
+			background: rgb(51, 51, 51, 0.5);
+			padding: 12px 18px 12px;
+			margin-bottom: 0;
+			font-size: 1.8em;
+			font-weight: 300;
+		}
+		.carousel-control-prev-icon,
+		.carousel-control-next-icon {
+			/*padding: 10px;
+			tamanho do icone*/
+		}
+		/*---------------------- DROPDOWN---------*/
+		.show > .dropdown-menu {
+  max-height: 800px;
+  visibility: visible;
+}
+
+.dropdown-menu {
+  display: block;
+  max-height: 0;
+  visibility: hidden;
+  transition: all 0.4s ease-in-out;
+  overflow: hidden;
+}
+
+/*---------------------- ---------*/
