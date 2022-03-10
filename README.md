@@ -1,5 +1,6 @@
 # SisPet
-Projeto em grupo da faculdade feito em PHP - Sistema de Pets
+<h2>Projeto em grupo da faculdade feito em PHP - Sistema de Pets</h2>
+<br>
 Turma ADS 3º Semestre Noturno - Senac 2021
 Alunos: Aquila Alexandrina, Douglas Francisco, Jean Gomes, Lucas Coelho, Manuella Abrantes.
 
